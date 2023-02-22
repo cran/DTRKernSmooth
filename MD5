@@ -1,0 +1,12 @@
+90e31d1ddcf9d2239574ee23fad0108a *DESCRIPTION
+104f0d4051f7ad69b62fbd400d037010 *NAMESPACE
+51abb0b656fc0304bd5f6e51bd5df8c3 *R/Functions.R
+b36fc5350da181a0527de6499909aa78 *R/RcppExports.R
+1961639f6f4f7f9efffa91b624b3d060 *build/partial.rdb
+f13b2bf83f130774ac5cc84ba165eeee *man/DTR.Boots.KernSmooth.Rd
+6a044639e612cc66eef83249e1ca2f46 *man/DTR.KernSmooth.Rd
+866d16424982ddb9dbfb0d4fcb6845d7 *man/obj_value.Rd
+180439fb5b4cbf702b204e9165b4c847 *man/predict.DTR.Boots.KernSmooth.Rd
+3c701c0c1a07968fef8c297312bc699c *man/predict.DTR.KernSmooth.Rd
+b9dbd829daa97cf83c68a5491460757f *src/Functions.cpp
+c3ac7510a1c8a2b76e6f2ff10a47694c *src/RcppExports.cpp
